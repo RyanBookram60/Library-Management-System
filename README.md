@@ -1,6 +1,6 @@
 # Library-Management-System
 _____________________________________
-Student Name: Ryan Bookram
+Student Name: Ryan Bookram<br>
 Course: Software Development 1 (14877)
 _____________________________________
 This project was aimed at creating a Library Managment System. 
